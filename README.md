@@ -1,12 +1,8 @@
-<!--
-  GITHUB PROFILE README
-  Username: Aadityya22
-  Theme: RED / BLACK
--->
+
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:450000,40:9B0000,75:DC143C,100:FF4500&height=220&section=header&text=AADITYYA%20MANOJ%20NAIK&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=AI%20%7C%20ML%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:450000,40:9B0000,75:DC143C,100:FF4500&height=220&section=header&text=AADITYYA%20MANOJ%20NAIK&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=AI%20%7C%20ML%20%7C%20DATA_SCIENCE%20ENGINEERING&descAlignY=55&descSize=18" width="100%" />
 
 <br/>
 
