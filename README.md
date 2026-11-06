@@ -105,7 +105,7 @@ I'm passionate about understanding how technology works, solving complex program
 
 - 🥇 Ranked **21st among 600 teams** in the QuantumLearn AI Hackathon.
 - ⭐ Achieved **5-Star in C Programming on HackerRank**.
-- 💻 Built and practiced with **2,000+ programming solutions and experiments**.
+- 💻 Built and practiced with **900+ programming solutions and experiments**.
 - 🚀 Developed projects across C, C++, Java, Python, and AI.
 - 📚 Continuously strengthening programming and problem-solving skills.
 
