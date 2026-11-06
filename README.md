@@ -108,13 +108,13 @@ I'm passionate about understanding how technology works, solving complex program
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aadityya22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3B3B&icon_color=FF3B3B&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aadityya22507&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3B3B&icon_color=FF3B3B&text_color=FFFFFF" width="49%" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityya22&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3B3B&text_color=FFFFFF" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityya22507&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3B3B&text_color=FFFFFF" width="49%" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Aadityya22&theme=radical&hide_border=true&background=0D1117&ring=FF3B3B&fire=FF4500&currStreakLabel=FF3B3B" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Aadityya22507&theme=radical&hide_border=true&background=0D1117&ring=FF3B3B&fire=FF4500&currStreakLabel=FF3B3B" width="70%" />
 
 </div>
 
@@ -124,7 +124,7 @@ I'm passionate about understanding how technology works, solving complex program
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadityya22&bg_color=0D1117&color=FF3B3B&line=DC143C&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadityya22507&bg_color=0D1117&color=FF3B3B&line=DC143C&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -134,11 +134,9 @@ I'm passionate about understanding how technology works, solving complex program
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aadityya22/Aadityya22/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aadityya22507/Aadityya22507/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
-
----
 
 ## 🎯 Current Focus
 
