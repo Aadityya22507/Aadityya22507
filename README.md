@@ -111,13 +111,14 @@ I'm passionate about understanding how technology works, solving complex program
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aadityya22507&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3B3B&icon_color=FF3B3B&text_color=FFFFFF" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Aadityya22507&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3B3B&icon_color=FF3B3B&text_color=FFFFFF" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityya22507&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3B3B&text_color=FFFFFF" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aadityya22507&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3B3B&text_color=FFFFFF" width="49%" />
 
 <br/>
 
