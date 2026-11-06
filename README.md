@@ -132,11 +132,10 @@ I'm passionate about understanding how technology works, solving complex program
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="./assets/activity.svg"
+  <img src="https://raw.githubusercontent.com/Aadityya22507/Aadityya22507/main/assets/activity.svg"
        width="100%"
        alt="Aadityya's GitHub Contribution Activity"/>
 </div>
-
 
 ---
 
