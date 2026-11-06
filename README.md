@@ -12,9 +12,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Aadityya22&label=PROFILE+VIEWS&color=DC143C&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Aadityya22?label=FOLLOWERS&style=for-the-badge&color=9B0000&labelColor=1A1A1A" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Aadityya22?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=DC143C&label=TOTAL%20STARS" alt="GitHub Stars"/>
+<img src="https://komarev.com/ghpvc/?username=Aadityya22507&label=PROFILE+VIEWS&color=DC143C&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Aadityya22507?label=FOLLOWERS&style=for-the-badge&color=9B0000&labelColor=1A1A1A" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Aadityya22507?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=DC143C&label=TOTAL%20STARS" alt="GitHub Stars"/>
 
 </div>
 
