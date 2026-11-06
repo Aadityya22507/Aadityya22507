@@ -43,7 +43,7 @@ I'm passionate about understanding how technology works, solving complex program
 
 ### Programming Languages
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,r&theme=dark" />
 </p>
 
@@ -125,11 +125,15 @@ I'm passionate about understanding how technology works, solving complex program
 ---
 
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadityya22507&theme=redical&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aadityya22507&show_icons=true&theme=radical&hide_border=true" width="90%" />
+
 </div>
+
 
 
 ---
