@@ -40,38 +40,39 @@ I'm passionate about understanding how technology works, solving complex program
 ---
 
 ## 🛠️ Tech Stack
-
+<div align="center">
 ### Programming Languages
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,r&theme=dark" />
 </p>
 
 ### AI / ML / Data Science
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
 </p>
 
 ### Frameworks & Development
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=fastapi,django,react,vite&theme=dark" />
 </p>
 
 ### Database & Tools
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,git,github,vscode,linux&theme=dark" />
 </p>
 
 ### Other Technologies
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_APIs-DC143C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge" />
 </p>
+</div>
 
 ---
 
