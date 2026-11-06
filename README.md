@@ -79,9 +79,10 @@ I'm passionate about understanding how technology works, solving complex program
 
 ---
 
+
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
+| **Project** | **Description** | **Technologies** |
 |---|---|---|
 | 🧠 QuantumLearn AI | Adaptive AI-powered learning platform with quantum ML integration. | Python, FastAPI, React, Qiskit |
 | 📚 C Data Structures Library | Implementation of fundamental data structures and operations. | C |
@@ -90,7 +91,14 @@ I'm passionate about understanding how technology works, solving complex program
 | 🤖 College Chatbot | AI-powered college assistance chatbot. | Python, Django |
 | 🧪 AutoML System | Machine learning model comparison and evaluation. | Python, Scikit-learn |
 
-🔗 **[Explore All My Repositories](https://github.com/Aadityya22?tab=repositories)**
+<div align="center">
+
+<a href="https://github.com/Aadityya22507?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_My_Repositories-DC143C?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
 
 ---
 
