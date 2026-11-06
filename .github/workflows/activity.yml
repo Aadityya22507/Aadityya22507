@@ -2,10 +2,9 @@
 name: Generate Contribution Activity Graph
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "30 0 * * *"
-
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -21,12 +20,24 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.12"
+
+      - name: Check repository files
+        run: |
+          pwd
+          ls -la
+          ls -la scripts
+          ls -la assets
 
       - name: Generate contribution graph
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python scripts/generate_activity.py
+        run: python -u scripts/generate_activity.py
+
+      - name: Check generated SVG
+        run: |
+          ls -lh assets/activity.svg
+          head -n 5 assets/activity.svg
 
       - name: Commit generated graph
         uses: stefanzweifel/git-auto-commit-action@v5
