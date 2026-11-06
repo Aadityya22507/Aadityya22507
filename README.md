@@ -40,7 +40,9 @@ I'm passionate about understanding how technology works, solving complex program
 ---
 
 ## 🛠️ Tech Stack
+
 <div align="center">
+  
 ### Programming Languages
 
 <p>
