@@ -132,11 +132,10 @@ I'm passionate about understanding how technology works, solving complex program
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aadityya22507&show_icons=true&theme=radical&hide_border=true" width="90%" />
-
+  <img src="./assets/activity.svg"
+       width="100%"
+       alt="Aadityya's GitHub Contribution Activity"/>
 </div>
-
 
 
 ---
