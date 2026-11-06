@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Aadityya Manoj Naik**, an Information Technology student and aspiring Software Engineer.
+Hey! I'm **Aadityya Manoj Naik**, an Information Technology student and aspiring Data Science Engineer.
 
 I'm passionate about understanding how technology works, solving complex programming problems, and building software that solves real-world challenges.
 
@@ -124,13 +124,13 @@ I'm passionate about understanding how technology works, solving complex program
 
 ---
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadityya22507&bg_color=0D1117&color=FF3B3B&line=DC143C&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadityya22507&theme=redical&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 </div>
+
 
 ---
 
